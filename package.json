@@ -1,0 +1,34 @@
+{
+  "name": "veronica",
+  "version": "1.0.0",
+  "description": "My discord bot.",
+  "main": "index.js",
+  "engines": {
+    "node": "8.12.0",
+    "npm": "6.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingcrypto0001/veronica-discordbot.git"
+  },
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "collect",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kingcrypto0001/veronica-discordbot/issues"
+  },
+  "homepage": "https://github.com/kingcrypto0001/veronica-discordbot#readme",
+  "dependencies": {
+    "cleverbot.io": "^1.0.4",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "sqlite": "^3.0.0"
+  }
+}
+ 
